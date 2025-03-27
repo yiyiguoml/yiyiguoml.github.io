@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yiyiguoml.github.io/ ./sitemap.xml
+Sitemap: https://yiyiguoml.github.io//sitemap.xml
