@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate. [University of Melbourne](https://www.unimelb.edu.au). Melbourne Connect (Building 290), University of Melbourne, VIC 3010, Australia.
+subtitle: PhD Candidate. Melbourne Connect (Building 290), University of Melbourne, VIC 3010, Australia.
 
 profile:
   align: right
