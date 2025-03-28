@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate. [University of Melbourne](https://www.unimelb.edu.au). Melbourne Connect (Building 290), University of Melbourne, VIC 3010, Australia.
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 # announcements:
 #   enabled: true # includes a list of news items
@@ -26,7 +26,7 @@ social: true # includes social icons at the bottom of the page
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-Greetings! I am currently a PhD candidate at the Trustworthy Machine Learning and Reasoning Group, School of Computing and Information Systems, The University of Melbourne, advised by Dr. [Feng Liu](https://fengliu90.github.io), Dr. [Vassilli Kitsios](https://people.csiro.au/K/V/Vassili-Kitsios), Dr. [Liuhua Peng](https://sites.google.com/view/liuhua-peng) and Dr. [Tingru Cui](https://tingru-cui.com).
+Greetings! I am currently a PhD candidate at the [Trustworthy Machine Learning and Reasoning Group](https://github.com/tmlr-group), [School of Computing and Information Systems](https://cis.unimelb.edu.au), The University of Melbourne, advised by Dr. [Feng Liu](https://fengliu90.github.io), Dr. [Vassilli Kitsios](https://people.csiro.au/K/V/Vassili-Kitsios), Dr. [Liuhua Peng](https://sites.google.com/view/liuhua-peng) and Dr. [Tingru Cui](https://tingru-cui.com).
 
 My research focuses on **deep learning-based bias correction for weather forecasting**, aiming to improve forecast reliability through robust and intelligent learning algorithms. The project involves addressing systematic errors in long-range prediction models by developing data-driven correction frameworks — a timely and impactful direction in the context of climate change and growing interest in trustworthy AI.
 
