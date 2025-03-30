@@ -8,5 +8,5 @@ nav_order: 6
 ---
 
 **COMP90051** Statistical Machine Learning (Sem1'25@UniMelb)
-- Tutor (with Dr.Feng Liu, Dr. Christine de Kock and Dr.Zesheng Ye)
+- Tutor (with Xunye Tian)
 
